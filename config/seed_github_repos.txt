@@ -1,0 +1,6 @@
+# Seed GitHub repos for ARD crawler (raw ai-catalog.json URLs)
+# One repo per line. Lines starting with # are ignored.
+# Example format: owner/repo
+
+# apexreg/registry-db
+# owner/repo-with-ard-catalog
