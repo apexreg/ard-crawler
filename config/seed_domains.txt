@@ -1,0 +1,5 @@
+# Seed domains for ARD crawler (ai-catalog.json at /.well-known/)
+# One domain per line. Lines starting with # are ignored.
+
+apexreg.org
+example.com
